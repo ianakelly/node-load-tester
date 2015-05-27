@@ -7,7 +7,7 @@
        alt="tweet button" title="Simple load testing with Node.js"></img>
 </a>
 
-## Summary
+
 
 <description>A load testing server</end> - v<version>0.5.0</end>
 
